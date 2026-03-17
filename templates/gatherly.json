@@ -4,6 +4,11 @@
       "id": 1,
       "userName": "Ola Nordmann",
       "description": "Frontend-utvikler som liker tech-meetups",
+      "password": "password123",
+      "email": "olanordmann@example.com",
+      "gender": "male",
+      "age": 26,
+      "profilePicture": "/Gatherly/public/assets/img/user1.jpg",
       "created": "2025-09-01T10:30:00",
       "updated": "2025-09-10T14:20:00"
     }
@@ -12,9 +17,9 @@
     {
       "id": 1,
       "name": "Frontend Meetup Oslo",
-      "description": "Uformell meetup for frontend-utviklere",
-      "location": "Oslo",
       "date": "2026-02-15",
+      "location": "Oslo",
+      "description": "Uformell meetup for frontend-utviklere",
       "tags": [
         "frontend",
         "nybegynner",
@@ -22,9 +27,13 @@
         "universell utforming",
         "gratis"
       ],
+      "category": "Technology",
+      "image": "/Gatherly/public/assets/img/technology1.jpg",
+      "imageAlt": "Bilde av frontend meetup",
       "created": "2025-12-01T09:00:00",
       "updated": "2025-12-01T09:00:00"
     }
+    
   ],
   "posts": [
     {

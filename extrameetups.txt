@@ -1,0 +1,83 @@
+{
+  "meetups": [
+    {
+    "id": 1,
+    "name": "Fagkveld om bærekraftig forskning",
+    "date": "2026-03-12",
+    "location": "Universitetet i Oslo",
+    "description": "En faglig samling for studenter og forskere som ønsker å lære mer om bærekraftige forskningsmetoder.",
+    "tags": ["forskning", "bærekraft", "akademisk"],
+    "category": "Academia",
+    "image": "/Gatherly/public/assets/img/academic1.jpg",
+    "imageAlt": "Akademisk meetup",
+    "created": "2026-02-01T10:00:00Z",
+    "updated": "2026-02-10T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Standupkveld i sentrum",
+    "date": "2026-04-05",
+    "location": "Oslo Standup Scene",
+    "description": "En kveld fylt med humor, nye komikere og god stemning.",
+    "tags": ["standup", "humor", "underholdning"],
+    "category": "Entertainment",
+    "image": "/Gatherly/public/assets/img/entertainment1.jpg",
+    "imageAlt": "Standup show",
+    "created": "2026-02-03T14:00:00Z",
+    "updated": "2026-02-12T14:00:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Nettverkskveld for unge gründere",
+    "date": "2026-03-20",
+    "location": "StartupLab Oslo",
+    "description": "En møteplass for unge gründere som ønsker å utvide nettverket sitt og dele erfaringer.",
+    "tags": ["nettverk", "gründere", "karriere"],
+    "category": "Professional",
+    "image": "/Gatherly/public/assets/img/professional1.jpg",
+    "imageAlt": "Profesjonell meetup",
+    "created": "2026-02-05T09:00:00Z",
+    "updated": "2026-02-15T09:00:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Bokklubb: Nordiske romaner",
+    "date": "2026-04-18",
+    "location": "Deichman Bjørvika",
+    "description": "En hyggelig samling for bokinteresserte som ønsker å diskutere nordiske romaner.",
+    "tags": ["bøker", "litteratur", "bokklubb"],
+    "category": "Literature",
+    "image": "/Gatherly/public/assets/img/literature1.jpg",
+    "imageAlt": "Litteratur meetup",
+    "created": "2026-02-07T11:00:00Z",
+    "updated": "2026-02-16T11:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Workshop: Introduksjon til kunstig intelligens",
+    "date": "2026-05-02",
+    "location": "Teknologihuset Oslo",
+    "description": "En praktisk workshop for alle som ønsker å lære grunnleggende konsepter innen kunstig intelligens.",
+    "tags": ["AI", "teknologi", "workshop"],
+    "category": "Technology",
+    "image": "/Gatherly/public/assets/img/technology1.jpg",
+    "imageAlt": "Teknologi workshop",
+    "created": "2026-02-09T13:00:00Z",
+    "updated": "2026-02-18T13:00:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Terrengløp i marka",
+    "date": "2026-04-28",
+    "location": "Nordmarka, Oslo",
+    "description": "Et sosialt terrengløp for både nybegynnere og erfarne løpere.",
+    "tags": ["løping", "sport", "friluft"],
+    "category": "Sports",
+    "image": "/Gatherly/public/assets/img/sports1.jpg",
+    "imageAlt": "Sports meetup",
+    "created": "2026-02-11T08:00:00Z",
+    "updated": "2026-02-20T08:00:00Z"
+  }
+
+  ]
+}
