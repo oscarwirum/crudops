@@ -17,9 +17,9 @@
     {
       "id": 1,
       "name": "Frontend Meetup Oslo",
-      "date": "2026-02-15",
+      "date": "2026-02-15T19:00:00",
       "location": "Oslo",
-      "description": "Uformell meetup for frontend-utviklere",
+      "description": "En uformell meetup for frontend-utviklere der vi samles for å bli kjent, dele erfaringer og snakke om alt fra HTML og CSS til JavaScript og nye rammeverk. Ingen krav til nivå – enten du er nybegynner eller erfaren, er du hjertelig velkommen! ",
       "tags": [
         "frontend",
         "nybegynner",
@@ -28,12 +28,11 @@
         "gratis"
       ],
       "category": "Technology",
-      "image": "/Gatherly/public/assets/img/technology1.jpg",
+      "image": "/Gatherly/public/assets/img/categories/technology1.jpg",
       "imageAlt": "Bilde av frontend meetup",
       "created": "2025-12-01T09:00:00",
       "updated": "2025-12-01T09:00:00"
     }
-    
   ],
   "posts": [
     {
