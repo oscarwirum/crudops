@@ -2,7 +2,8 @@
   "users": [
     {
       "id": 1,
-      "userName": "Ola Nordmann",
+      "firstName": "Ola",
+      "lastName": "Nordmann",
       "description": "Frontend-utvikler som liker tech-meetups",
       "password": "password123",
       "email": "olanordmann@example.com",
