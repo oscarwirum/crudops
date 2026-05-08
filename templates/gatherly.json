@@ -4,6 +4,7 @@
       "id": 1,
       "firstName": "Ola",
       "lastName": "Nordmann",
+      "username": "OlaNordmann",
       "description": "Frontend-utvikler som liker tech-meetups",
       "password": "password123",
       "email": "olanordmann@example.com",
