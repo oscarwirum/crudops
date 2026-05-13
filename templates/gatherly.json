@@ -9,7 +9,6 @@
       "password": "password123",
       "email": "olanordmann@example.com",
       "gender": "male",
-      "age": 26,
       "image": "/assets/img/profilepictureman.png",
       "created": "2025-09-01T10:30:00",
       "updated": "2025-09-10T14:20:00"
